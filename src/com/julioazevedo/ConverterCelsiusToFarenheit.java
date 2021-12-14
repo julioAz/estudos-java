@@ -1,4 +1,4 @@
-package com.company;
+package com.julioazevedo;
 
 //Escreva um programa que converte temperaturas de Celsius para Farenheit.
 // Formula (°C × 9/5) + 32 = 32 °F

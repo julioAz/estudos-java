@@ -1,4 +1,4 @@
-package com.company;
+package com.julioazevedo;
 
 public class KiloParaLibras {
     public static void main(String[] args) {

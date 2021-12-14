@@ -1,4 +1,4 @@
-package com.company;
+package com.julioazevedo;
 
 public class Pessoa {
     public static void main(String[] args) {

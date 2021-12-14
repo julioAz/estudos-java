@@ -1,4 +1,4 @@
-package com.company;
+package com.julioazevedo;
 
 //Escreva um programa em Java que permita 2 jogadores jogarem o clássico jogo da velha.
 //Não se esqueça de solicitar o nome de cada jogador e tornar o jogo interativo, alternando a vez

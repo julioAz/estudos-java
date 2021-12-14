@@ -1,4 +1,4 @@
-package com.company;
+package com.julioazevedo;
 
 //Escreva um programa que informa a tabuada de um número informado (entre 1-10).
 

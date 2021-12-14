@@ -1,4 +1,4 @@
-package com.company;
+package com.julioazevedo;
 
  class Area {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company;
+package com.julioazevedo;
 
 public enum Sexo {
     FEMININO, MASCULINO;
